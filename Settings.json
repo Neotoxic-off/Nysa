@@ -1,6 +1,7 @@
 {
-    "version" : "0.0.1",
+    "version" : "1.0.0",
     "pure" : true,
+    "color" : "#100a17",
     "tools" : [
         {
             "name" : "R-Unlocker",
@@ -9,3 +10,4 @@
         }
     ]
 }
+
