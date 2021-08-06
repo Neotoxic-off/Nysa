@@ -1,5 +1,5 @@
 {
-    "version" : "1.1.0",
+    "version" : "1.2.0",
     "pure" : true,
     "color" : "#15161C",
     "tools" : [
@@ -9,8 +9,8 @@
             "version" : "1.0.0"
         },
         {
-            "name" : "Slock",
-            "link" : "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Slock.rar",
+            "name" : "Splash",
+            "link" : "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Splash.rar",
             "version" : "1.0.0"
         }
     ]
