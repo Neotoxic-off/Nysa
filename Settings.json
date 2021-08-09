@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "background": "resources\\grisaia.png",
     "blur": "75,0,0,0",
     "minimalist": true,
@@ -11,6 +11,10 @@
     }, {
         "name": "Splash",
         "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Splash.rar",
+        "version": "1.0.0"
+    }, {
+        "name": "Cookie Monster",
+        "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Cookie_Monster.rar",
         "version": "1.0.0"
     }]
 }
