@@ -16,5 +16,9 @@
         "name": "Cookie Monster",
         "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Cookie_Monster.rar",
         "version": "1.0.0"
+    }, {
+        "name": "Image Converter",
+        "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Image_Converter.rar",
+        "version": "1.0.0"
     }]
 }
