@@ -1,5 +1,5 @@
 {
-    "version": "2.3.0",
+    "version": "2.4.0",
     "background": "resources\\grisaia.png",
     "blur": "75,0,0,0",
     "minimalist": true,
@@ -19,6 +19,10 @@
     }, {
         "name": "Image Convert",
         "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Image_Convert.rar",
+        "version": "1.0.0"
+    }, {
+        "name": "Vlad",
+        "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Vlad.rar",
         "version": "1.0.0"
     }]
 }
