@@ -1,5 +1,5 @@
 {
-    "version": "2.5.0",
+    "version": "2.6.0",
     "background": "resources\\grisaia.png",
     "blur": "75,0,0,0",
     "minimalist": true,
@@ -27,6 +27,10 @@
     }, {
         "name": "Kirsty",
         "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Kirsty.rar",
+        "version": "1.0.0"
+    }, {
+        "name": "SSL Bypass 5.1.1",
+        "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/SSL_Bypass_Queen_5.1.1.rar",
         "version": "1.0.0"
     }]
 }
