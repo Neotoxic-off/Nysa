@@ -32,6 +32,11 @@
             "name": "Market 5.1.1",
             "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/market.json",
             "version": "1.0.0"
+        },
+        {
+            "name": "Savefile 5.1.1",
+            "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/vlad.FullProfile.txt",
+            "version": "1.0.0"
         }
     ],
     "tools": [
