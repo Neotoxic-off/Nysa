@@ -1,5 +1,5 @@
 {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "cheats" : [
         {
             "name": "Kirsty",
@@ -29,12 +29,12 @@
             "version": "1.0.0"
         },
         {
-            "name": "Market 5.1.1",
+            "name": "Market",
             "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/market.json",
             "version": "1.0.0"
         },
         {
-            "name": "Savefile 5.1.1",
+            "name": "Savefile",
             "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/vlad.FullProfile.txt",
             "version": "1.0.0"
         }
