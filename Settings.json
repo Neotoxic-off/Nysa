@@ -1,5 +1,5 @@
 {
-    "version": "3.2.0",
+    "version": "3.3.0",
     "cheats" : [
         {
             "name": "Kirsty",
@@ -24,8 +24,8 @@
     ],
     "resources" : [
         {
-            "name": "SSL Bypass 5.2.0",
-            "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/SSL_Bypass_Queen_5.2.0.rar",
+            "name": "SSL Bypass 5.2.1",
+            "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/SSL_Bypass_Queen_5.2.1.rar",
             "version": "1.0.0"
         },
         {
