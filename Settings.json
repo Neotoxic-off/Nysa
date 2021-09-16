@@ -1,5 +1,5 @@
 {
-    "version": "3.3.0",
+    "version": "3.4.0",
     "cheats" : [
         {
             "name": "Kirsty",
@@ -19,6 +19,11 @@
         {
             "name": "Vlad",
             "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Vlad.rar",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Crown",
+            "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Crown.rar",
             "version": "1.0.0"
         }
     ],
