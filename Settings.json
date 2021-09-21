@@ -1,5 +1,5 @@
 {
-    "version": "3.5.0",
+    "version": "3.6.0",
     "cheats" : [
         {
             "name": "Kirsty",
@@ -24,6 +24,11 @@
         {
             "name": "Crown",
             "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Crown.rar",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Bloody Slasher",
+            "link": "https://github.com/Neotoxic-off/Nysa/releases/download/1.0.0/Bloodyslasher_v4.5.rar",
             "version": "1.0.0"
         }
     ],
